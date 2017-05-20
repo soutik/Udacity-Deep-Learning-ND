@@ -8,3 +8,35 @@
 7. Image Classification/cifar-10-batches-py/data_batch_1
 
 7. Image Classification/cifar-10-batches-py/data_batch_3
+
+*.pyc
+
+7. Image Classification/cifar-10-batches-py/batches.meta
+
+7. Image Classification/cifar-10-batches-py/data_batch_2
+
+7. Image Classification/cifar-10-batches-py/test_batch
+
+7. Image Classification/cifar-10-batches-py/data_batch_5
+
+7. Image Classification/image_classification.data-00000-of-00001
+
+7. Image Classification/image_classification.index
+
+7. Image Classification/image_classification.meta
+
+7. Image Classification/preprocess_batch_1.p
+
+7. Image Classification/preprocess_batch_2.p
+
+7. Image Classification/preprocess_batch_3.p
+
+7. Image Classification/preprocess_batch_4.p
+
+7. Image Classification/preprocess_batch_5.p
+
+7. Image Classification/preprocess_training.p
+
+7. Image Classification/preprocess_validation.p
+
+7. Image Classification/checkpoint
